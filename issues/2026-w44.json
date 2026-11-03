@@ -1,0 +1,598 @@
+{
+  "issue": "2026-w44",
+  "week_standard": "ISO 8601",
+  "period": {
+    "start": "2026-10-26",
+    "end": "2026-10-30"
+  },
+  "published": "2026-11-02",
+  "china_prices": [
+    {
+      "product": "PP",
+      "tier": "focus",
+      "currency": "CNY",
+      "unit": "t",
+      "spot": {
+        "open": 10733.0,
+        "close": 11483.0,
+        "change_pct": 6.99,
+        "period": "week",
+        "open_as_of": "2026-10-26",
+        "close_as_of": "2026-10-30"
+      },
+      "futures": {
+        "exchange": "DCE",
+        "contract": "PP2701",
+        "close": 10433.0,
+        "change_pct_day": 1.3,
+        "as_of": "2026-10-30"
+      }
+    },
+    {
+      "product": "LLDPE",
+      "tier": "focus",
+      "currency": "CNY",
+      "unit": "t",
+      "spot": {
+        "open": 10083.0,
+        "close": 10275.0,
+        "change_pct": 1.9,
+        "period": "week",
+        "open_as_of": "2026-10-26",
+        "close_as_of": "2026-10-30"
+      },
+      "futures": {
+        "exchange": "DCE",
+        "contract": "L2701",
+        "close": 9558.0,
+        "change_pct_day": 2.2,
+        "as_of": "2026-10-30"
+      }
+    },
+    {
+      "product": "HDPE",
+      "tier": "focus",
+      "currency": "CNY",
+      "unit": "t",
+      "spot": {
+        "open": 11110.0,
+        "close": 11150.0,
+        "change_pct": 0.36,
+        "period": "week",
+        "open_as_of": "2026-10-26",
+        "close_as_of": "2026-10-30"
+      },
+      "futures": null
+    },
+    {
+      "product": "LDPE",
+      "tier": "focus",
+      "currency": "CNY",
+      "unit": "t",
+      "spot": {
+        "open": 12700.0,
+        "close": 12767.0,
+        "change_pct": 0.52,
+        "period": "week",
+        "open_as_of": "2026-10-26",
+        "close_as_of": "2026-10-30"
+      },
+      "futures": null
+    },
+    {
+      "product": "PVC SG-5",
+      "tier": "brief",
+      "currency": "CNY",
+      "unit": "t",
+      "spot": {
+        "open": 5196.0,
+        "close": 5275.0,
+        "change_pct": 1.52,
+        "period": "week",
+        "open_as_of": "2026-10-26",
+        "close_as_of": "2026-10-30"
+      },
+      "futures": {
+        "exchange": "DCE",
+        "contract": "V2701",
+        "close": 5290.0,
+        "change_pct_day": 0.4,
+        "as_of": "2026-10-30"
+      }
+    },
+    {
+      "product": "PET",
+      "tier": "brief",
+      "currency": "CNY",
+      "unit": "t",
+      "spot": {
+        "open": 8901.0,
+        "close": 8987.0,
+        "change_pct": 0.96,
+        "period": "week",
+        "open_as_of": "2026-10-26",
+        "close_as_of": "2026-10-30"
+      },
+      "futures": {
+        "exchange": "ZCE",
+        "contract": "PR2612",
+        "close": 8606.0,
+        "change_pct_day": 1.44,
+        "as_of": "2026-10-30"
+      }
+    }
+  ],
+  "export_prices": [
+    {
+      "product": "PP raffia",
+      "basis": "FOB Qingdao",
+      "currency": "USD",
+      "unit": "t",
+      "as_of": "2026-10-30",
+      "price": {
+        "low": 1430.0,
+        "high": 1430.0
+      },
+      "trend": null
+    },
+    {
+      "product": "PP raffia",
+      "basis": "FOB Ningbo",
+      "currency": "USD",
+      "unit": "t",
+      "as_of": "2026-10-30",
+      "price": {
+        "low": 1500.0,
+        "high": 1500.0
+      },
+      "trend": null
+    },
+    {
+      "product": "PP raffia",
+      "basis": "FOB Huangpu",
+      "currency": "USD",
+      "unit": "t",
+      "as_of": "2026-10-30",
+      "price": {
+        "low": 1510.0,
+        "high": 1510.0
+      },
+      "trend": null
+    },
+    {
+      "product": "LLDPE film",
+      "basis": "CFR South China",
+      "currency": "USD",
+      "unit": "t",
+      "as_of": "2026-10-30",
+      "price": {
+        "low": 1350.0,
+        "high": 1350.0
+      },
+      "trend": null
+    },
+    {
+      "product": "LLDPE film",
+      "basis": "CFR India",
+      "currency": "USD",
+      "unit": "t",
+      "as_of": "2026-10-29",
+      "price": {
+        "low": 1300.0,
+        "high": 1300.0
+      },
+      "trend": null
+    },
+    {
+      "product": "HDPE film",
+      "basis": "CFR Southeast Asia",
+      "currency": "USD",
+      "unit": "t",
+      "as_of": "2026-10-28",
+      "price": {
+        "low": 1348.0,
+        "high": 1350.0
+      },
+      "trend": null
+    },
+    {
+      "product": "PET bottle",
+      "basis": "FOB Shanghai",
+      "currency": "USD",
+      "unit": "t",
+      "as_of": "2026-10-29",
+      "price": {
+        "low": 1235.0,
+        "high": 1260.0
+      },
+      "trend": null
+    },
+    {
+      "product": "PVC",
+      "basis": "CFR India",
+      "currency": "USD",
+      "unit": "t",
+      "as_of": "2026-10-27",
+      "price": {
+        "low": 936.0,
+        "high": 936.0
+      },
+      "trend": null
+    }
+  ],
+  "crude_oil": {
+    "unit": "USD/bbl",
+    "as_of": "2026-10-30",
+    "brent": {
+      "close": 117.64,
+      "change_pct_week": 0.79
+    },
+    "wti": {
+      "close": 104.12,
+      "change_pct_week": 0.82
+    }
+  },
+  "content": {
+    "zh": {
+      "title": "全球塑料原料市场周报 | 2026年第44周（10月26日–30日）",
+      "summary": "一句话：布伦特周涨 0.79% 收于 117.64 美元，10月累涨 13.6%；中国 PP 现货周涨近 7%、期货站上万元创2021年以来新高，PE 跟涨但幅度较小，下游抵触高价。",
+      "focus_heading": "本周重点：原油、PP、PE",
+      "other_heading": "其他品种简讯",
+      "sections": [
+        {
+          "key": "crude",
+          "tier": "focus",
+          "heading": "原油",
+          "text": "布伦特12月合约周五（到期日）收于 117.64 美元/桶，周涨 0.79%，10月累计涨 13.6%；WTI 收于 104.12 美元/桶，周涨 0.82%。周初美伊调停一度压低油价，周二 WTI 跌破 100 美元；周五霍尔木兹海峡油轮遇袭、胡塞武装威胁沙特能源设施，油价收于4月底以来最高。更活跃的布伦特1月合约收于 113.43 美元，换月后基准报价将走低。"
+        },
+        {
+          "key": "pp",
+          "tier": "focus",
+          "heading": "聚丙烯 PP",
+          "text": "生意社 PP 拉丝现货由 10,733 涨至 11,483 元/吨，周涨 6.99%，领涨通用塑料；大商所 PP2701 周五收 10,433 元/吨，较前一周五涨 8.4%，10月26日盘中站上 1 万元，为2021年10月以来首次。成本高位叠加检修，本周开工率约 66.5%，10月30日重点企业聚烯烃库存 66 万吨、同比低 5%。下游利润承压、抵触高价；出口报盘跟涨至 FOB 宁波 1,500 美元/吨，处全球高位，海外接盘明显减少。"
+        },
+        {
+          "key": "pe",
+          "tier": "focus",
+          "heading": "聚乙烯 PE",
+          "text": "LLDPE 现货周涨 1.90% 至 10,275 元/吨，HDPE、LDPE 分别涨 0.36%、0.52%，涨幅明显小于 PP。大商所 L2701 收 9,558 元/吨，周涨 8.1%，周五单日涨 2.20%。石化企业控量挺价、去库，现货流通偏紧；但下游开工率仅约 44.6%（10月16–22日），高价接受度有限。进口 LLDPE 膜（埃克森 2018AY）CFR 华南 1,350 美元/吨，10月30日单日涨 30 美元。"
+        },
+        {
+          "key": "pvc",
+          "tier": "brief",
+          "heading": "PVC",
+          "text": "现货周涨 1.52% 至 5,275 元/吨，大商所 V2701 收 5,290 元/吨，周涨 3.4%。亏损带来的减产和持续去库提供支撑，但地产需求疲弱、北方进入冬季施工淡季，高价成交跟进不足。印度对中国悬浮法 PVC 的反补贴调查仍在进行，中国电石法货 CFR 蒙德拉报 936 美元/吨。"
+        },
+        {
+          "key": "pet",
+          "tier": "brief",
+          "heading": "PET 瓶片",
+          "text": "现货周涨 0.96% 至 8,987 元/吨；郑商所 PR2612 周五收 8,606 元/吨，单日涨 1.44%，周涨 5.5%。工厂控产挺价，现货加工费修复至约 945 元/吨（10月29日）。华东出口商谈 1,235–1,260 美元/吨 FOB 上海，较上周上调约 60–70 美元。饮料需求进入淡季，月底检修装置或重启，高加工费难以持续。"
+        },
+        {
+          "key": "outlook",
+          "tier": "outlook",
+          "heading": "下周展望",
+          "text": "中东局势令原油高位震荡，布伦特换月后基准报价将下移。中国聚烯烃成本支撑仍强、库存偏低，但 PP 已创多年新高、下游抵触加剧，检修装置重启将增加供应，预计高位震荡、波动加大。采购建议：按需分批，不追高；出口客户关注中国 FOB 报价与中东、美国货源的价差。"
+        }
+      ],
+      "regions": [
+        {
+          "region": "东南亚",
+          "text": "LLDPE 膜带动东南亚 PE 新一轮上涨，CFR 东南亚 HDPE 膜 1,348–1,350 美元/吨，周涨 30 美元（10月22–28日）。沙特主要供应商11月对越南 PE 成交低于首轮报价但买家仍嫌偏贵，转向美国货和副牌料，按需采购。"
+        },
+        {
+          "region": "印度",
+          "text": "10月27日 OPaL、HPL、IOCL、HMEL 上调部分 HDPE 管材/注塑料 2 卢比/公斤，PP 普遍持平；11月1日起 Reliance PP 上调 2,000 卢比/吨，PVC 与 LLDPE 膜各上调 4,000 卢比/吨。进口报价 PP 拉丝约 1,400、LLDPE 约 1,300 美元/吨（10月29日）。"
+        },
+        {
+          "region": "欧洲",
+          "text": "10月 PE 成交上涨 50–100 欧元/吨，11月部分生产商寻求 100 欧元/吨以上涨幅；PP 供应商因预期丙烯合同上调也准备提价。但下游需求疲弱、年底去库，能否落实存疑。"
+        },
+        {
+          "region": "美国",
+          "text": "Dow 称9月 PE 合同上涨 5 美分/磅，10月、11月再分别提涨 7 和 5 美分/磅；RTi 预计10–11月 PE 基本持平。PP 合同9月再降约 2 美分/磅，预计持平略降。"
+        },
+        {
+          "region": "拉美",
+          "text": "Braskem 三季度在巴西售出树脂 85.4 万吨、环比增 12%，但巴西树脂价差降至 372 美元/吨（二季度 653 美元）。本周拉美 PP 进口价因运费和区域报价上调走强，HDPE 进口价持平。"
+        },
+        {
+          "region": "非洲",
+          "text": "尼日利亚 Indorama Eleme 10月26日生效价目表（哈科特港出厂、不含税）：LLDPE 膜 214.39 万奈拉/吨、HDPE 膜 215.30 万奈拉/吨、PP 拉丝 226.89 万奈拉/吨。埃及 EIPET 计划11月检修 PET 装置、12月不交货并上调报价。本周未见北非、西非 LLDPE 到岸价新的公开数据。"
+        }
+      ],
+      "export_note": "出口价为报盘或成交参考区间，具体以实际询价为准。",
+      "sources": "数据来源：大连商品交易所、郑州商品交易所、生意社、隆众资讯、CommoPlast、CCFGroup、同花顺 iFinD、EnergyNow/路透、Business Times、ChemOrbis、Plastemart、BigMint、PolyMart、Polymerupdate、ResinBridge、Braskem、Indorama Eleme、Procurement Resource。仅供参考，不构成交易建议。"
+    },
+    "en": {
+      "title": "Global Plastics Raw Materials Weekly | Week 44, 2026 (Oct 26–30)",
+      "summary": "In brief: Brent rose 0.79% on the week to $117.64 and 13.6% in October; China PP spot gained almost 7% and futures broke above CNY 10,000 for the first time since 2021, while PE followed more modestly and converters resisted high prices.",
+      "focus_heading": "This week’s focus: crude, PP, PE",
+      "other_heading": "Other products in brief",
+      "sections": [
+        {
+          "key": "crude",
+          "tier": "focus",
+          "heading": "Crude oil",
+          "text": "December Brent settled at $117.64/bbl on Friday, its expiry day, up 0.79% on the week and 13.6% for October; WTI settled at $104.12/bbl, up 0.82%. Gulf diplomacy pushed prices down early in the week, with WTI below $100 on Tuesday, before a tanker attack in the Strait of Hormuz and Houthi threats to Saudi energy sites lifted crude to its highest close since late April. The more active January Brent contract settled at $113.43, so the benchmark quote will drop after the roll."
+        },
+        {
+          "key": "pp",
+          "tier": "focus",
+          "heading": "Polypropylene (PP)",
+          "text": "100ppi raffia spot rose from CNY 10,733 to 11,483/t, up 6.99% and the top gainer among commodity plastics; DCE PP Jan-27 closed at CNY 10,433/t on Friday, up 8.4% from the previous Friday, after breaking above CNY 10,000 intraday on Oct 26 for the first time since October 2021. High costs and maintenance kept operating rates near 66.5% this week, and producer polyolefin stocks stood at 660 kt on Oct 30, 5% lower y/y. Squeezed converters resist high prices; export offers followed to $1,500/t FOB Ningbo, among the highest globally, and overseas buying has dropped sharply."
+        },
+        {
+          "key": "pe",
+          "tier": "focus",
+          "heading": "Polyethylene (PE)",
+          "text": "Spot LLDPE rose 1.90% to CNY 10,275/t, while HDPE and LDPE gained 0.36% and 0.52%, far less than PP. DCE LLDPE Jan-27 closed at CNY 9,558/t, up 8.1% on the week and 2.20% on Friday. Producers are limiting volumes and drawing down stocks, keeping spot supply tight, but downstream operating rates of about 44.6% (Oct 16–22) limit acceptance of higher prices. Imported LLDPE film (ExxonMobil 2018AY) was offered at $1,350/t CFR South China, up $30 on Oct 30."
+        },
+        {
+          "key": "pvc",
+          "tier": "brief",
+          "heading": "PVC",
+          "text": "Spot PVC rose 1.52% to CNY 5,275/t and DCE PVC Jan-27 closed at CNY 5,290/t, up 3.4% on the week. Loss-driven output cuts and steady destocking provide support, but weak property demand and the northern winter construction slowdown limit follow-through at higher prices. India’s countervailing-duty probe into Chinese suspension PVC continues; Chinese carbide-based PVC was offered at $936/t CFR Mundra."
+        },
+        {
+          "key": "pet",
+          "tier": "brief",
+          "heading": "PET bottle chips",
+          "text": "Spot rose 0.96% to CNY 8,987/t; ZCE PR Dec-26 closed at CNY 8,606/t, up 1.44% on the day and 5.5% on the week. Producers are curbing output to support prices, and the spot processing margin recovered to about CNY 945/t (Oct 29). East China export talks reached $1,235–1,260/t FOB Shanghai, about $60–70 above last week. Beverage demand is entering the off-season and idled lines may restart at month-end, so high margins look hard to sustain."
+        },
+        {
+          "key": "outlook",
+          "tier": "outlook",
+          "heading": "Outlook",
+          "text": "Middle East tensions keep crude volatile at high levels, and the Brent benchmark quote will move lower after the contract roll. China’s polyolefins still have strong cost support and low stocks, but PP is at multi-year highs, converter resistance is growing and plant restarts will add supply, pointing to range-bound trading at high levels with wider swings. Buyers: purchase in batches as needed and avoid chasing rallies; exporters should watch the spread between Chinese FOB offers and Middle East and US material."
+        }
+      ],
+      "regions": [
+        {
+          "region": "Southeast Asia",
+          "text": "LLDPE film led a fresh round of PE gains in Southeast Asia; HDPE film CFR Southeast Asia reached $1,348–1,350/t, up $30 on the week (Oct 22–28). A major Saudi producer closed November PE sales to Vietnam below its first offers, yet buyers still saw them as expensive and turned to US cargoes and off-grade material, buying only as needed."
+        },
+        {
+          "region": "India",
+          "text": "On Oct 27, OPaL, HPL, IOCL and HMEL raised selected HDPE pipe and injection grades by INR 2/kg, while PP was largely unchanged; from Nov 1, Reliance raised PP by INR 2,000/t and PVC and LLDPE film by INR 4,000/t each. Import offers were about $1,400/t for PP raffia and $1,300/t for LLDPE (Oct 29)."
+        },
+        {
+          "region": "Europe",
+          "text": "October PE deals closed €50–100/t higher, and some producers are seeking €100/t or more for November; PP suppliers also plan increases on expectations of a higher propylene contract. Weak downstream demand and year-end destocking make full implementation doubtful."
+        },
+        {
+          "region": "United States",
+          "text": "Dow said September PE contracts rose 5¢/lb and it is seeking a further 7¢/lb for October and 5¢/lb for November; RTi expects PE to stay largely flat in October–November. PP contracts fell about another 2¢/lb in September and are expected flat to slightly lower."
+        },
+        {
+          "region": "Latin America",
+          "text": "Braskem sold 854 kt of resins in Brazil in Q3, up 12% q/q, but its Brazil resin spread fell to $372/t (Q2: $653/t). This week PP import prices firmed across Latin America on higher freight and regional offers, while HDPE import prices held steady."
+        },
+        {
+          "region": "Africa",
+          "text": "Nigeria’s Indorama Eleme price list effective Oct 26 (ex-Port Harcourt, excl. VAT): LLDPE film NGN 2.144 million/t, HDPE film NGN 2.153 million/t, PP raffia NGN 2.269 million/t. Egypt’s EIPET plans PET maintenance in November with no December deliveries and has raised prices. No new public North or West Africa LLDPE delivered prices this week."
+        }
+      ],
+      "export_note": "Export prices are indicative offer or deal ranges; please request a firm quote.",
+      "sources": "Sources: Dalian Commodity Exchange, Zhengzhou Commodity Exchange, 100ppi, Oilchem, CommoPlast, CCFGroup, iFinD, EnergyNow/Reuters, Business Times, ChemOrbis, Plastemart, BigMint, PolyMart, Polymerupdate, ResinBridge, Braskem, Indorama Eleme, Procurement Resource. For reference only; not trading advice."
+    },
+    "fr": {
+      "title": "Hebdo mondial des matières plastiques | Semaine 44, 2026 (26–30 oct.)",
+      "summary": "En bref : le Brent gagne 0,79 % sur la semaine à 117,64 $ et 13,6 % en octobre ; le PP spot chinois progresse de près de 7 % et les contrats à terme dépassent 10 000 CNY pour la première fois depuis 2021, le PE suit plus modestement et les transformateurs résistent aux prix élevés.",
+      "focus_heading": "Focus de la semaine : brut, PP, PE",
+      "other_heading": "Autres produits en bref",
+      "sections": [
+        {
+          "key": "crude",
+          "tier": "focus",
+          "heading": "Pétrole brut",
+          "text": "Le Brent décembre a clôturé vendredi, jour d’échéance, à 117,64 $/baril, +0,79 % sur la semaine et +13,6 % en octobre ; le WTI à 104,12 $/baril, +0,82 %. La diplomatie dans le Golfe a fait baisser les cours en début de semaine, le WTI passant sous 100 $ mardi, avant qu’une attaque contre un pétrolier dans le détroit d’Ormuz et des menaces houthies contre des sites énergétiques saoudiens ne portent le brut à son plus haut depuis fin avril. Le Brent janvier, plus actif, a clôturé à 113,43 $ : la cotation de référence baissera après le changement d’échéance."
+        },
+        {
+          "key": "pp",
+          "tier": "focus",
+          "heading": "Polypropylène (PP)",
+          "text": "Le PP raphia spot (100ppi) est passé de 10 733 à 11 483 CNY/t, +6,99 %, meilleure hausse des plastiques de commodité ; le PP janvier 2027 (DCE) a clôturé vendredi à 10 433 CNY/t, +8,4 % sur un vendredi, après avoir franchi 10 000 CNY en séance le 26 oct., une première depuis octobre 2021. Coûts élevés et arrêts techniques maintiennent les taux de marche vers 66,5 %, et les stocks de polyoléfines des producteurs atteignaient 660 kt le 30 oct., -5 % sur un an. Les transformateurs, sous pression, refusent les prix élevés ; les offres export ont suivi jusqu’à 1 500 $/t FOB Ningbo, parmi les plus hautes au monde, et les achats étrangers ont nettement reculé."
+        },
+        {
+          "key": "pe",
+          "tier": "focus",
+          "heading": "Polyéthylène (PE)",
+          "text": "Le PEBDL spot gagne 1,90 % à 10 275 CNY/t, le PEHD et le PEBD +0,36 % et +0,52 %, bien moins que le PP. Le PEBDL janvier 2027 (DCE) a clôturé à 9 558 CNY/t, +8,1 % sur la semaine et +2,20 % vendredi. Les producteurs limitent les volumes et déstockent, ce qui tend l’offre spot, mais un taux de marche aval d’environ 44,6 % (16–22 oct.) limite l’acceptation des hausses. Le PEBDL film importé (ExxonMobil 2018AY) est offert à 1 350 $/t CFR Chine du Sud, +30 $ le 30 oct."
+        },
+        {
+          "key": "pvc",
+          "tier": "brief",
+          "heading": "PVC",
+          "text": "Le PVC spot gagne 1,52 % à 5 275 CNY/t et le PVC janvier 2027 (DCE) clôture à 5 290 CNY/t, +3,4 % sur la semaine. Les baisses de production dues aux pertes et le déstockage soutiennent les prix, mais la faiblesse de l’immobilier et le ralentissement hivernal du BTP dans le nord limitent les achats à haut niveau. L’enquête antisubventions de l’Inde sur le PVC suspension chinois se poursuit ; le PVC carbure chinois est offert à 936 $/t CFR Mundra."
+        },
+        {
+          "key": "pet",
+          "tier": "brief",
+          "heading": "PET bouteille",
+          "text": "Le spot gagne 0,96 % à 8 987 CNY/t ; le PR décembre 2026 (ZCE) a clôturé à 8 606 CNY/t, +1,44 % sur la journée et +5,5 % sur la semaine. Les producteurs limitent la production pour soutenir les prix, et la marge de transformation spot remonte à environ 945 CNY/t (29 oct.). Les discussions export de l’est de la Chine atteignent 1 235–1 260 $/t FOB Shanghai, environ 60–70 $ de plus que la semaine précédente. La demande de boissons entre en basse saison et des lignes arrêtées pourraient redémarrer fin octobre : des marges aussi élevées semblent difficiles à tenir."
+        },
+        {
+          "key": "outlook",
+          "tier": "outlook",
+          "heading": "Perspectives",
+          "text": "Les tensions au Moyen-Orient maintiennent un brut volatil à haut niveau, et la cotation de référence du Brent baissera après le changement d’échéance. Les polyoléfines chinoises gardent un fort soutien des coûts et des stocks bas, mais le PP est à des sommets pluriannuels, la résistance des transformateurs s’accentue et les redémarrages ajouteront de l’offre : évolution latérale à haut niveau avec une volatilité accrue. Acheteurs : acheter par tranches selon les besoins, sans courir après la hausse ; exportateurs : surveiller l’écart entre les offres FOB chinoises et les produits du Moyen-Orient et des États-Unis."
+        }
+      ],
+      "regions": [
+        {
+          "region": "Asie du Sud-Est",
+          "text": "Le PEBDL film a mené une nouvelle hausse du PE en Asie du Sud-Est ; le PEHD film CFR Asie du Sud-Est atteint 1 348–1 350 $/t, +30 $ sur la semaine (22–28 oct.). Un grand producteur saoudien a conclu ses ventes PE de novembre au Vietnam sous ses premières offres, mais les acheteurs les jugent encore chères et se tournent vers les cargaisons américaines et les déclassés, en n’achetant que le nécessaire."
+        },
+        {
+          "region": "Inde",
+          "text": "Le 27 oct., OPaL, HPL, IOCL et HMEL ont relevé certains grades PEHD tube et injection de 2 INR/kg, le PP restant globalement stable ; à partir du 1er nov., Reliance relève le PP de 2 000 INR/t et le PVC et le PEBDL film de 4 000 INR/t chacun. Offres import : environ 1 400 $/t pour le PP raphia et 1 300 $/t pour le PEBDL (29 oct.)."
+        },
+        {
+          "region": "Europe",
+          "text": "Les transactions PE d’octobre ont été conclues en hausse de 50–100 €/t, et certains producteurs visent 100 €/t ou plus pour novembre ; les fournisseurs de PP préparent aussi des hausses dans l’attente d’un contrat propylène plus élevé. Une demande aval faible et le déstockage de fin d’année rendent leur application incertaine."
+        },
+        {
+          "region": "États-Unis",
+          "text": "Dow indique que les contrats PE de septembre ont augmenté de 5 ¢/lb et vise encore 7 ¢/lb en octobre et 5 ¢/lb en novembre ; RTi s’attend à un PE globalement stable en octobre–novembre. Les contrats PP ont encore reculé d’environ 2 ¢/lb en septembre et devraient rester stables à légèrement en baisse."
+        },
+        {
+          "region": "Amérique latine",
+          "text": "Braskem a vendu 854 kt de résines au Brésil au T3, +12 % sur le trimestre, mais son écart résines au Brésil est tombé à 372 $/t (T2 : 653 $/t). Cette semaine, les prix import du PP se sont raffermis en Amérique latine sur la hausse du fret et des offres régionales, tandis que ceux du PEHD sont restés stables."
+        },
+        {
+          "region": "Afrique",
+          "text": "Barème d’Indorama Eleme (Nigeria) en vigueur au 26 oct. (départ Port Harcourt, hors TVA) : PEBDL film 2,144 millions NGN/t, PEHD film 2,153 millions NGN/t, PP raphia 2,269 millions NGN/t. En Égypte, EIPET prévoit un arrêt technique PET en novembre, sans livraisons en décembre, et a relevé ses prix. Pas de nouveaux prix publics du PEBDL rendu en Afrique du Nord ou de l’Ouest cette semaine."
+        }
+      ],
+      "export_note": "Les prix export sont des fourchettes indicatives ; merci de demander une offre ferme.",
+      "sources": "Sources : Bourses de Dalian et de Zhengzhou, 100ppi, Oilchem, CommoPlast, CCFGroup, iFinD, EnergyNow/Reuters, Business Times, ChemOrbis, Plastemart, BigMint, PolyMart, Polymerupdate, ResinBridge, Braskem, Indorama Eleme, Procurement Resource. À titre indicatif ; pas un conseil d’investissement."
+    },
+    "es": {
+      "title": "Semanario global de materias primas plásticas | Semana 44, 2026 (26–30 oct.)",
+      "summary": "En resumen: el Brent subió 0,79 % en la semana hasta 117,64 $ y 13,6 % en octubre; el PP spot chino ganó casi un 7 % y los futuros superaron los 10.000 CNY por primera vez desde 2021, mientras el PE siguió con menos fuerza y los transformadores resistieron los precios altos.",
+      "focus_heading": "Enfoque de la semana: crudo, PP, PE",
+      "other_heading": "Otros productos en breve",
+      "sections": [
+        {
+          "key": "crude",
+          "tier": "focus",
+          "heading": "Petróleo",
+          "text": "El Brent de diciembre cerró el viernes, día de vencimiento, en 117,64 $/barril, +0,79 % semanal y +13,6 % en octubre; el WTI en 104,12 $/barril, +0,82 %. La diplomacia en el Golfo bajó los precios a comienzos de semana, con el WTI por debajo de 100 $ el martes, antes de que un ataque a un petrolero en el estrecho de Ormuz y amenazas hutíes contra instalaciones energéticas saudíes llevaran el crudo a su cierre más alto desde finales de abril. El Brent de enero, más activo, cerró en 113,43 $, por lo que la cotización de referencia bajará tras el cambio de contrato."
+        },
+        {
+          "key": "pp",
+          "tier": "focus",
+          "heading": "Polipropileno (PP)",
+          "text": "La rafia spot (100ppi) subió de 10.733 a 11.483 CNY/t, +6,99 %, la mayor subida entre los plásticos básicos; el PP enero 2027 en DCE cerró el viernes en 10.433 CNY/t, +8,4 % frente al viernes anterior, tras superar los 10.000 CNY intradía el 26 de octubre por primera vez desde octubre de 2021. Los costes altos y las paradas mantuvieron la utilización cerca del 66,5 %, y los inventarios de poliolefinas de los productores eran de 660 kt el 30 de octubre, un 5 % menos interanual. Los transformadores, con márgenes estrechos, rechazan precios altos; las ofertas de exportación subieron hasta 1.500 $/t FOB Ningbo, entre las más altas del mundo, y las compras externas cayeron con fuerza."
+        },
+        {
+          "key": "pe",
+          "tier": "focus",
+          "heading": "Polietileno (PE)",
+          "text": "El LLDPE spot subió 1,90 % hasta 10.275 CNY/t, mientras PEAD y PEBD ganaron 0,36 % y 0,52 %, mucho menos que el PP. El LLDPE enero 2027 en DCE cerró en 9.558 CNY/t, +8,1 % semanal y +2,20 % el viernes. Los productores limitan volúmenes y reducen inventarios, lo que ajusta la oferta spot, pero una utilización aguas abajo de alrededor del 44,6 % (16–22 oct.) limita la aceptación de precios altos. El LLDPE film importado (ExxonMobil 2018AY) se ofreció a 1.350 $/t CFR sur de China, +30 $ el 30 de octubre."
+        },
+        {
+          "key": "pvc",
+          "tier": "brief",
+          "heading": "PVC",
+          "text": "El PVC spot subió 1,52 % hasta 5.275 CNY/t y el PVC enero 2027 en DCE cerró en 5.290 CNY/t, +3,4 % semanal. Los recortes por pérdidas y la reducción de inventarios dan soporte, pero la débil demanda inmobiliaria y la pausa invernal de la construcción en el norte frenan las compras a precios altos. Sigue la investigación antisubvención de India sobre el PVC en suspensión chino; el PVC chino de carburo se ofreció a 936 $/t CFR Mundra."
+        },
+        {
+          "key": "pet",
+          "tier": "brief",
+          "heading": "PET grado botella",
+          "text": "El spot subió 0,96 % hasta 8.987 CNY/t; el PR diciembre 2026 en ZCE cerró en 8.606 CNY/t, +1,44 % en el día y +5,5 % en la semana. Los productores limitan la producción para sostener precios y el margen de procesamiento spot se recuperó hasta unos 945 CNY/t (29 oct.). Las negociaciones de exportación del este de China llegaron a 1.235–1.260 $/t FOB Shanghái, unos 60–70 $ más que la semana anterior. La demanda de bebidas entra en temporada baja y algunas líneas paradas podrían reiniciar a fin de mes, por lo que márgenes tan altos parecen difíciles de mantener."
+        },
+        {
+          "key": "outlook",
+          "tier": "outlook",
+          "heading": "Perspectivas",
+          "text": "Las tensiones en Oriente Medio mantienen el crudo volátil en niveles altos, y la cotización de referencia del Brent bajará tras el cambio de contrato. Las poliolefinas chinas conservan un fuerte soporte de costes e inventarios bajos, pero el PP está en máximos de varios años, crece la resistencia de los transformadores y los reinicios añadirán oferta: se espera un rango lateral en niveles altos con mayor volatilidad. Compradores: comprar por tramos según necesidad y no perseguir subidas; exportadores: vigilar el diferencial entre las ofertas FOB chinas y el material de Oriente Medio y EE. UU."
+        }
+      ],
+      "regions": [
+        {
+          "region": "Sudeste Asiático",
+          "text": "El LLDPE film lideró una nueva ronda de subidas del PE en el Sudeste Asiático; el PEAD film CFR Sudeste Asiático llegó a 1.348–1.350 $/t, +30 $ en la semana (22–28 oct.). Un gran productor saudí cerró sus ventas de PE de noviembre a Vietnam por debajo de sus primeras ofertas, pero los compradores aún las ven caras y se inclinan por cargas estadounidenses y material de segunda, comprando solo lo necesario."
+        },
+        {
+          "region": "India",
+          "text": "El 27 de octubre, OPaL, HPL, IOCL y HMEL subieron algunos grados de PEAD para tubería e inyección en 2 INR/kg, mientras el PP se mantuvo en general; desde el 1 de noviembre, Reliance sube el PP en 2.000 INR/t y el PVC y el LLDPE film en 4.000 INR/t cada uno. Ofertas de importación: unos 1.400 $/t para PP rafia y 1.300 $/t para LLDPE (29 oct.)."
+        },
+        {
+          "region": "Europa",
+          "text": "Los acuerdos de PE de octubre cerraron 50–100 €/t más altos y algunos productores buscan 100 €/t o más para noviembre; los proveedores de PP también preparan subidas ante un contrato de propileno previsiblemente más alto. La débil demanda y el desabastecimiento de fin de año hacen dudosa su aplicación completa."
+        },
+        {
+          "region": "Estados Unidos",
+          "text": "Dow afirma que los contratos de PE de septiembre subieron 5 ¢/lb y busca otros 7 ¢/lb en octubre y 5 ¢/lb en noviembre; RTi prevé un PE en general plano en octubre–noviembre. Los contratos de PP bajaron otros 2 ¢/lb aprox. en septiembre y se esperan estables o algo más bajos."
+        },
+        {
+          "region": "América Latina",
+          "text": "Braskem vendió 854 kt de resinas en Brasil en el 3T, +12 % trimestral, pero su diferencial de resinas en Brasil cayó a 372 $/t (2T: 653 $/t). Esta semana los precios de importación de PP se afirmaron en América Latina por mayores fletes y ofertas regionales, mientras los de PEAD se mantuvieron estables."
+        },
+        {
+          "region": "África",
+          "text": "Lista de precios de Indorama Eleme (Nigeria) vigente desde el 26 oct. (salida Port Harcourt, sin IVA): LLDPE film 2,144 millones NGN/t, PEAD film 2,153 millones NGN/t, PP rafia 2,269 millones NGN/t. En Egipto, EIPET prevé mantenimiento de PET en noviembre, sin entregas en diciembre, y subió precios. Esta semana no hubo nuevos precios públicos de LLDPE entregado en el norte u oeste de África."
+        }
+      ],
+      "export_note": "Los precios de exportación son rangos indicativos; solicite una cotización firme.",
+      "sources": "Fuentes: Bolsas de Dalian y Zhengzhou, 100ppi, Oilchem, CommoPlast, CCFGroup, iFinD, EnergyNow/Reuters, Business Times, ChemOrbis, Plastemart, BigMint, PolyMart, Polymerupdate, ResinBridge, Braskem, Indorama Eleme, Procurement Resource. Solo referencia; no es asesoramiento de inversión."
+    },
+    "pt": {
+      "title": "Semanal global de matérias-primas plásticas | Semana 44, 2026 (26–30 out.)",
+      "summary": "Em resumo: o Brent subiu 0,79 % na semana para US$ 117,64 e 13,6 % em outubro; o PP spot na China ganhou quase 7 % e os futuros superaram CNY 10.000 pela primeira vez desde 2021, enquanto o PE acompanhou de forma mais moderada e os transformadores resistiram aos preços altos.",
+      "focus_heading": "Foco da semana: petróleo, PP, PE",
+      "other_heading": "Outros produtos em resumo",
+      "sections": [
+        {
+          "key": "crude",
+          "tier": "focus",
+          "heading": "Petróleo",
+          "text": "O Brent dezembro fechou sexta-feira, dia do vencimento, a US$ 117,64/barril, +0,79 % na semana e +13,6 % em outubro; o WTI a US$ 104,12/barril, +0,82 %. A diplomacia no Golfo derrubou os preços no início da semana, com o WTI abaixo de US$ 100 na terça-feira, até que um ataque a um petroleiro no Estreito de Ormuz e ameaças houthis a instalações energéticas sauditas levaram o petróleo ao maior fechamento desde o fim de abril. O Brent janeiro, mais negociado, fechou a US$ 113,43, por isso a cotação de referência cairá após a rolagem."
+        },
+        {
+          "key": "pp",
+          "tier": "focus",
+          "heading": "Polipropileno (PP)",
+          "text": "A ráfia spot (100ppi) subiu de CNY 10.733 para 11.483/t, +6,99 %, maior alta entre os plásticos commodity; o PP janeiro 2027 na DCE fechou sexta-feira a CNY 10.433/t, +8,4 % sobre a sexta anterior, depois de superar CNY 10.000 no intradiário em 26 de outubro pela primeira vez desde outubro de 2021. Custos altos e paradas mantiveram a utilização perto de 66,5 %, e os estoques de poliolefinas dos produtores eram de 660 mil t em 30 de outubro, 5 % abaixo do ano anterior. Os transformadores, com margens apertadas, resistem a preços altos; as ofertas de exportação subiram para US$ 1.500/t FOB Ningbo, entre as mais altas do mundo, e as compras externas caíram fortemente."
+        },
+        {
+          "key": "pe",
+          "tier": "focus",
+          "heading": "Polietileno (PE)",
+          "text": "O PEBDL spot subiu 1,90 % para CNY 10.275/t, enquanto PEAD e PEBD avançaram 0,36 % e 0,52 %, bem menos que o PP. O PEBDL janeiro 2027 na DCE fechou a CNY 9.558/t, +8,1 % na semana e +2,20 % na sexta-feira. Os produtores limitam volumes e reduzem estoques, apertando a oferta spot, mas a utilização a jusante de cerca de 44,6 % (16–22 out.) limita a aceitação de preços altos. O PEBDL filme importado (ExxonMobil 2018AY) foi ofertado a US$ 1.350/t CFR sul da China, +US$ 30 em 30 de outubro."
+        },
+        {
+          "key": "pvc",
+          "tier": "brief",
+          "heading": "PVC",
+          "text": "O PVC spot subiu 1,52 % para CNY 5.275/t e o PVC janeiro 2027 na DCE fechou a CNY 5.290/t, +3,4 % na semana. Cortes de produção por prejuízo e a redução de estoques dão suporte, mas a demanda imobiliária fraca e a desaceleração da construção no inverno do norte limitam as compras a preços altos. A investigação antissubsídio da Índia sobre o PVC suspensão chinês continua; o PVC chinês de carbureto foi ofertado a US$ 936/t CFR Mundra."
+        },
+        {
+          "key": "pet",
+          "tier": "brief",
+          "heading": "PET grau garrafa",
+          "text": "O spot subiu 0,96 % para CNY 8.987/t; o PR dezembro 2026 na ZCE fechou a CNY 8.606/t, +1,44 % no dia e +5,5 % na semana. Os produtores limitam a produção para sustentar preços, e a margem de processamento spot voltou a cerca de CNY 945/t (29 out.). As negociações de exportação do leste da China chegaram a US$ 1.235–1.260/t FOB Xangai, cerca de US$ 60–70 acima da semana anterior. A demanda de bebidas entra na entressafra e linhas paradas podem religar no fim do mês, então margens tão altas parecem difíceis de manter."
+        },
+        {
+          "key": "outlook",
+          "tier": "outlook",
+          "heading": "Perspectivas",
+          "text": "As tensões no Oriente Médio mantêm o petróleo volátil em níveis altos, e a cotação de referência do Brent cairá após a rolagem. As poliolefinas chinesas mantêm forte suporte de custos e estoques baixos, mas o PP está em máximas de vários anos, a resistência dos transformadores cresce e as retomadas vão adicionar oferta: espera-se oscilação lateral em níveis altos, com mais volatilidade. Compradores: comprar em lotes conforme a necessidade e evitar perseguir altas; exportadores: acompanhar o diferencial entre as ofertas FOB chinesas e o material do Oriente Médio e dos EUA."
+        }
+      ],
+      "regions": [
+        {
+          "region": "Sudeste Asiático",
+          "text": "O PEBDL filme liderou uma nova rodada de altas do PE no Sudeste Asiático; o PEAD filme CFR Sudeste Asiático chegou a US$ 1.348–1.350/t, +US$ 30 na semana (22–28 out.). Um grande produtor saudita fechou as vendas de PE de novembro para o Vietnã abaixo das primeiras ofertas, mas os compradores ainda as consideram caras e recorrem a cargas dos EUA e material fora de especificação, comprando só o necessário."
+        },
+        {
+          "region": "Índia",
+          "text": "Em 27 de outubro, OPaL, HPL, IOCL e HMEL elevaram alguns grades de PEAD para tubos e injeção em INR 2/kg, com o PP em geral estável; a partir de 1º de novembro, a Reliance sobe o PP em INR 2.000/t e o PVC e o PEBDL filme em INR 4.000/t cada. Ofertas de importação: cerca de US$ 1.400/t para PP ráfia e US$ 1.300/t para PEBDL (29 out.)."
+        },
+        {
+          "region": "Europa",
+          "text": "Os negócios de PE de outubro fecharam €50–100/t mais altos, e alguns produtores buscam €100/t ou mais para novembro; os fornecedores de PP também preparam altas diante da expectativa de um contrato de propeno mais alto. A demanda fraca e a redução de estoques de fim de ano tornam a implementação incerta."
+        },
+        {
+          "region": "Estados Unidos",
+          "text": "A Dow diz que os contratos de PE de setembro subiram 5 ¢/lb e busca mais 7 ¢/lb em outubro e 5 ¢/lb em novembro; a RTi espera PE praticamente estável em outubro–novembro. Os contratos de PP caíram mais cerca de 2 ¢/lb em setembro e devem ficar estáveis a levemente mais baixos."
+        },
+        {
+          "region": "América Latina",
+          "text": "A Braskem vendeu 854 mil t de resinas no Brasil no 3T, +12 % no trimestre, mas o spread de resinas no Brasil caiu para US$ 372/t (2T: US$ 653/t). Nesta semana, os preços de importação de PP se firmaram na América Latina com fretes e ofertas regionais mais altos, enquanto os de PEAD ficaram estáveis."
+        },
+        {
+          "region": "África",
+          "text": "Tabela da Indorama Eleme (Nigéria) vigente desde 26 out. (saída Port Harcourt, sem IVA): PEBDL filme NGN 2,144 milhões/t, PEAD filme NGN 2,153 milhões/t, PP ráfia NGN 2,269 milhões/t. No Egito, a EIPET prevê manutenção de PET em novembro, sem entregas em dezembro, e elevou preços. Não houve novos preços públicos de PEBDL entregue no Norte ou Oeste da África nesta semana."
+        }
+      ],
+      "export_note": "Os preços de exportação são faixas indicativas; solicite uma cotação firme.",
+      "sources": "Fontes: Bolsas de Dalian e Zhengzhou, 100ppi, Oilchem, CommoPlast, CCFGroup, iFinD, EnergyNow/Reuters, Business Times, ChemOrbis, Plastemart, BigMint, PolyMart, Polymerupdate, ResinBridge, Braskem, Indorama Eleme, Procurement Resource. Apenas referência; não é recomendação de investimento."
+    }
+  },
+  "disclaimer": "For reference only; not investment advice."
+}
